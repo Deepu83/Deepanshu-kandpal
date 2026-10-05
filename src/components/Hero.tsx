@@ -137,9 +137,9 @@ export const Hero: React.FC = () => {
                 <div className="mt-3 px-2 py-2 flex items-center justify-between text-xs text-slate-500 dark:text-slate-400 font-mono-code">
                   <span className="flex items-center gap-1.5">
                     <span className="w-2 h-2 rounded-full bg-indigo-500"></span>
-                    <span>dk_portfolio.tsx</span>
+                    <span>Deepanshu</span>
                   </span>
-                  <span>v2026.1</span>
+                  <span >Kandpal</span>
                 </div>
 
               </div>
